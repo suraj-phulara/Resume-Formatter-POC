@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+python-dotenv
+docx2txt
+openai
+jinja2
+langchain-openai
+latex-resumes
